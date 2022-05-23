@@ -24,10 +24,11 @@
 
 
 ## Menú Principal :
-![Screenshot_20210808-101848_Termux](https://user-images.githubusercontent.com/81049859/128635214-37b3bff5-cf20-4556-a082-49927abccfa9.png)
+![Screenshot_20220523-105323_Termux](https://user-images.githubusercontent.com/81049859/169847518-7b15f286-7be6-4fc0-9cf3-9c20532cf2ea.png)
+
 
 ## SteghideCj7 :
-* Oculta datos (txt, apk, etc) detrás de cualquier imagen (jpg / jpeg / png / gif / bmp), audio (mp3 / wav), excel, etc. con una contraseña.
+* Oculta archivos (txt, apk, etc) detrás de cualquier imagen (jpg / jpeg / png / gif / bmp), audio (mp3 / wav), excel, etc. con una contraseña.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
