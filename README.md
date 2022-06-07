@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -22,10 +21,8 @@
 
 </details>
 
-
 ## Menú Principal :
 ![Screenshot_20220523-105323_Termux](https://user-images.githubusercontent.com/81049859/169847518-7b15f286-7be6-4fc0-9cf3-9c20532cf2ea.png)
-
 
 ## SteghideCj7 :
 * Oculta archivos (txt, apk, etc) detrás de cualquier imagen (jpg / jpeg / png / gif / bmp), audio (mp3 / wav), excel, etc. con una contraseña.
@@ -40,8 +37,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* `apt update && apt upgrade -y`
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * `git clone https://github.com/Juliocj7/SteghideCj7`
 
 * `cd SteghideCj7`
