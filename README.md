@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220523-105323_Termux](https://user-images.githubusercontent.com/81049859/169847518-7b15f286-7be6-4fc0-9cf3-9c20532cf2ea.png)
+![Screenshot_20221227-144644_Termux](https://user-images.githubusercontent.com/81049859/209709532-b5c046cc-bd63-40c4-b064-de2748fd484d.png)
 
 ## SteghideCj7 :
 * Oculta archivos (txt, apk, etc) detrás de cualquier imagen (jpg / jpeg / png / gif / bmp), audio (mp3 / wav), excel, etc. con una contraseña.
